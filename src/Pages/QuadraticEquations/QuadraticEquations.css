@@ -1,0 +1,38 @@
+.quadratic {
+    border: 1px solid black;
+    padding: 70px 30px;
+    height: 94vh;
+}
+
+.quadratic .heading {
+    margin-bottom: 50px;
+}
+
+.quadratic .form-control {
+    width: 185px;
+}
+
+.quadratic .variables {
+    font-size: 25px;
+    margin-left: 10px;
+    width: 55px;
+}
+
+.quadratic .square {
+    font-size: 14px;
+    position: relative;
+    bottom: 15px;
+}
+
+.quadratic .btn {
+    margin: 30px 0;
+}
+
+.quadratic .text1 {
+    font-size: 25px;
+    width: min-content;
+}
+
+.quadratic .soln {
+    margin: 10px 0;
+}

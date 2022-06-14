@@ -1,0 +1,45 @@
+.vectors {
+    padding: 40px 30px;
+    height: 94vh;
+    border: 1px solid black;
+}
+
+.vectors .heading {
+    margin-bottom: 20px;
+}
+
+.vectors .display-4 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.vectors .inputs {
+    padding: 10px 50px;
+}
+
+.vectors .variables {
+    font-size: 25px;
+    width: 40px;
+    text-align: center;
+}
+
+.vectors .input-fields {
+    margin-bottom: 40px;
+}
+
+.vectors .solutions {
+    margin-bottom: 20px;
+}
+
+.vectors .solutions .btn {
+    font-size: 15px;
+}
+
+.vectors .solutions .form-control {
+    width: 280px;
+    margin-left: 5px;
+    margin-right: 15px;
+    text-align: center;
+    font-size: 16px;
+}

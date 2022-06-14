@@ -1,0 +1,33 @@
+.number-theory {
+    padding: 40px 30px;
+    height: 94vh;
+    border: 1px solid black;
+}
+
+.number-theory .heading {
+    margin-bottom: 20px;
+}
+
+.number-theory .display-4 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.number-theory .input-fields {
+    margin: 30px 0;
+    padding: 5px;
+}
+
+.number-theory .input-fields .form-control {
+    font-size: 16px;
+}
+
+.number-theory .solutions {
+    margin-bottom: 20px;
+    padding: 4px;
+}
+
+.number-theory .solutions .form-control {
+    text-align: center;
+}

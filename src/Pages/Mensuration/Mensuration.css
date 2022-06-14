@@ -1,0 +1,42 @@
+.mensuration {
+    padding: 20px 30px;
+    height: 94vh;
+    border: 1px solid black;
+}
+
+.mensuration .heading {
+    margin-bottom: 23px;
+}
+
+.mensuration .display-4 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.mensuration .d2,
+.d3 {
+    height: 75vh;
+    margin-top: 20px;
+    padding: 50px 20px;
+}
+
+.mensuration .d2 {
+    border-right: 1px solid black;
+}
+
+.mensuration .d2 .form-select,
+.mensuration .d2 .form-control,
+.mensuration .d2 .btn {
+    margin-bottom: 25px;
+}
+
+.mensuration .d3 .form-select,
+.mensuration .d3 .form-control,
+.mensuration .d3 .btn {
+    margin-bottom: 25px;
+}
+
+.mensuration .btn {
+    width: 150px;
+}

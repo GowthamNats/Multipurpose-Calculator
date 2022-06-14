@@ -1,0 +1,118 @@
+.equations {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.single {
+    height: 30vh;
+}
+
+.double {
+    height: 64vh;
+}
+
+.triple {
+    height: 64vh;
+}
+
+.equations h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.single input {
+    margin: 0 10px;
+}
+
+.single .col-8 .form-control {
+    width: 175px;
+}
+
+.single button {
+    margin-top: 10px;
+}
+
+.single .col-8 span {
+    font-size: 25px;
+    position: relative;
+    top: 5px;
+}
+
+.single .col-4 span {
+    font-size: 25px;
+    position: relative;
+    top: 5px;
+}
+
+.single .btn {
+    position: relative;
+    right: 10px;
+}
+
+.single .col-4 input {
+    width: 125px;
+    height: 50px;
+}
+
+.double h1 {
+    margin-bottom: 30px;
+}
+
+.double .d2 {
+    width: 80px;
+    margin-right: 10px
+}
+
+.double span {
+    font-size: 20px;
+}
+
+.double .fields {
+    margin-bottom: 30px;
+}
+
+.double .offset-2 {
+    margin-top: 20px
+}
+
+.double .offset-2 span {
+    position: relative;
+    top: 2px;
+}
+
+.double .d2a {
+    width: 200px;
+}
+
+
+
+
+.triple h1 {
+    margin-bottom: 20px;
+}
+
+.triple .d2 {
+    width: 70px;
+    margin-right: 10px
+}
+
+.triple span {
+    font-size: 20px;
+}
+
+.triple .fields {
+    margin-bottom: 10px;
+}
+
+.triple .offset-2 {
+    margin-top: 10px
+}
+
+.triple .offset-2 span {
+    position: relative;
+    top: 2px;
+}
+
+.triple .d2a {
+    width: 200px;
+}

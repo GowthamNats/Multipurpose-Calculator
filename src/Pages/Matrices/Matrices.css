@@ -1,0 +1,61 @@
+.matrices {
+    padding: 20px 30px;
+    height: 94vh;
+    border: 1px solid black;
+}
+
+.matrices input {
+    text-align: center;
+}
+
+.matrices .heading {
+    margin-bottom: 23px;
+}
+
+.matrices .display-4 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.matrices .input-fields {
+    border-right: 1px black solid;
+    height: 78vh;
+    padding: 10px 5px;
+}
+
+.matrices .btn {
+    margin: 40px 0;
+    width: 100px;
+}
+
+.matrices .det {
+    margin: 10px 0;
+    padding: 0 10px;
+}
+
+.matrices .det input {
+    height: 40px;
+}
+
+.matrices .solution-fields {
+    height: 78vh;
+    padding: 5px
+}
+
+.matrices .input-fields .col-4 {
+    padding: 10px;
+}
+
+.matrices .solution-fields .col-4 {
+    padding: 10px;
+}
+
+.matrices .header .display-4 {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.matrices .solution-fields .inverse .header {
+    margin-top: 40px;
+}

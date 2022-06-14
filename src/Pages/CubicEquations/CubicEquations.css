@@ -1,0 +1,42 @@
+.cubic {
+    border: 1px solid black;
+    padding: 50px 10px;
+    height: 94vh;
+}
+
+.cubic .heading {
+    margin-bottom: 50px;
+}
+
+.cubic .form-control {
+    width: 130px;
+}
+
+.cubic .variables {
+    font-size: 25px;
+    margin-left: 10px;
+    width: 55px;
+}
+
+.cubic .square {
+    font-size: 14px;
+    position: relative;
+    bottom: 15px;
+}
+
+.cubic .btn {
+    margin: 30px 0;
+}
+
+.cubic .text1 {
+    font-size: 25px;
+    width: min-content;
+}
+
+.cubic .soln {
+    margin: 10px 0;
+}
+
+.cubic .form2 {
+    width: 180px;
+}

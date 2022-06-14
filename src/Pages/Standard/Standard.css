@@ -1,0 +1,33 @@
+.card {
+    height: 150px;
+    border-radius: 0;
+}
+
+.answer {
+    height: 75px;
+}
+
+.card-body {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: x-large;
+    font-weight: 500;
+}
+
+.button-text {
+    width: 235px;
+    height: 64.7px;
+    border-radius: 0;
+    border: 1px solid #28242c;
+    font-size: large;
+}
+
+.button-text:hover {
+    background-color: #28242c;
+    color: white;
+}
+
+.button-text:focus {
+    box-shadow: none;
+}
